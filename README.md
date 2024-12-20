@@ -40,7 +40,7 @@ CreditCard_Analytics/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ayushdash02/CreditCard_Analytics.git
+   git clone https://github.com/Ayushdash02/CreditCard_Analytics
    ```
 2. Install required dependencies if using Python scripts:
    ```bash
